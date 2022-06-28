@@ -1,5 +1,5 @@
 # Coral_stuff
-A bunch of tools and resources about **corals** and **coral reefs** for others researchers - for geeky lovers of the wonders of the (tropical) seas!   
+A bunch of tools and resources about **corals** and **coral reefs** for other researchers - or simply geeky lovers of the wonders of the (tropical) seas!   
 
 🌊🐠🦑 
 
