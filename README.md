@@ -7,7 +7,7 @@ A bunch of tools and resources about **corals** and **coral reefs** for others r
 Available stuff:
 * Shapes (.SVG) aka silhouettes of coral colonies, other cnidarians (anemone, upside-down jellyfish ... ), and microbes (including Symbiodiniaceae!)   
 
-This ☝️ is what I used to make this logo:   
+This ☝️ is what I used to make this logo for #PrideMonth2022 🏳️‍🌈 on Twitter:   
 <img src="https://user-images.githubusercontent.com/88721301/176278516-b8677568-154b-4a96-b917-a6a85f36aa72.png" width="300" height="300">
 
 
