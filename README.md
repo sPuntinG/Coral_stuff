@@ -4,14 +4,14 @@ A bunch of tools and resources about **corals** and **coral reefs** for other re
 🌊🐠🦑 
 
 
-Available stuff:
-* Shapes (.SVG) aka silhouettes of coral colonies, other cnidarians (anemone, upside-down jellyfish ... ), and microbes (including Symbiodiniaceae!)   
+## Currently available stuff:
+* [Coral reef themed SVG shapes](https://github.com/sPuntinG/Coral_stuff/coralreef_themed_shapes) aka silhouettes of coral colonies, other cnidarians (anemone, upside-down jellyfish ... ), and microbes (including Symbiodiniaceae!)   
 
 This ☝️ is what I used to make this logo for #PrideMonth2022 🏳️‍🌈 on Twitter:   
 <img src="https://user-images.githubusercontent.com/88721301/176278516-b8677568-154b-4a96-b917-a6a85f36aa72.png" width="300" height="300">
 
 
-Coming soon(-ish):
+## Coming soon(-ish):
 * 🌏 How to make a Pacific-centered map in {ggplot2} + {sf}
 * alkalinity calculations
 * PAM - cleaning the outputs in R
