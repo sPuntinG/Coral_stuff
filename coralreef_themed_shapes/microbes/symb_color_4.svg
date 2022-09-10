@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="6.28057mm"
+   height="6.56283mm"
+   viewBox="0 0 6.28057 6.5628303"
+   version="1.1"
+   id="svg987"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs984" />
+  <g
+     id="layer1"
+     transform="translate(-110.10529,-123.59563)">
+    <g
+       id="g4050"
+       transform="translate(-19.59269,-0.276051)"
+       style="stroke:none">
+      <path
+         style="opacity:1;fill:#d57a0f;fill-opacity:0.992157;fill-rule:nonzero;stroke:none;stroke-width:0.178;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="m 135.97855,127.29423 c 0,1.81228 -1.24165,3.14028 -3.03444,3.14028 -1.79279,0 -3.24613,-1.46914 -3.24613,-3.28142 0,-1.81227 1.45334,-3.28141 3.24613,-3.28141 1.79279,0 3.03443,1.61027 3.03444,3.42255 z"
+         id="path4042" />
+      <path
+         style="opacity:1;fill:#fd821f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.178;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="m 134.56716,125.56532 a 1.0232377,1.0585216 0 0 1 -1.02323,1.05852 1.0232377,1.0585216 0 0 1 -1.02324,-1.05852 1.0232377,1.0585216 0 0 1 1.02324,-1.05852 1.0232377,1.0585216 0 0 1 1.02323,1.05852 z"
+         id="path4044" />
+      <path
+         id="path4046"
+         d="m 132.02671,128.31485 c 0,0.38355 -0.20035,1.14357 -0.57059,1.14357 -0.37025,0 -1.11949,-0.95962 -1.11949,-1.34317 -1e-5,-0.38356 0.52469,-0.46995 0.89494,-0.46994 0.37025,0 0.79514,0.28598 0.79514,0.66954 z"
+         style="opacity:1;fill:#9e592a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.178;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+      <path
+         style="opacity:1;fill:#9e592a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.178;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="m 134.00945,128.53836 c 0.3082,0.0201 0.90831,0.22063 0.88867,0.51735 -0.0196,0.29675 -0.83052,0.84685 -1.13873,0.82672 -0.30821,-0.0201 -0.34981,-0.4452 -0.33015,-0.74195 0.0196,-0.29674 0.27199,-0.62226 0.58021,-0.60212 z"
+         id="path4048" />
+    </g>
+  </g>
+</svg>

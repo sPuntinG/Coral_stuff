@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="6.63341mm"
+   height="6.56284mm"
+   viewBox="0 0 6.6334099 6.5628403"
+   version="1.1"
+   id="svg987"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs984" />
+  <g
+     id="layer1"
+     transform="translate(-110.37344,-121.93059)">
+    <g
+       id="g4082"
+       transform="translate(-22.217829,5.468566)"
+       style="stroke:none">
+      <path
+         style="opacity:1;fill:#d57a0f;fill-opacity:0.992157;fill-rule:nonzero;stroke:none;stroke-width:0.178;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="m 139.22468,119.74344 c 0,1.81228 -1.45335,3.28142 -3.24614,3.28142 -1.79279,0 -3.38727,-1.68085 -3.38727,-3.49312 0,-1.81228 1.59448,-3.06972 3.38727,-3.06972 1.79279,0 3.24614,1.46914 3.24614,3.28142 z"
+         id="path4074" />
+      <path
+         style="opacity:1;fill:#9e592a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.178;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="m 138.2109,118.52171 c 0,0.47774 -0.37415,0.86502 -0.83569,0.86502 -0.46153,0 -0.78578,-0.56193 -0.78578,-1.03967 0,-0.47773 0.32425,-0.69037 0.78578,-0.69037 0.46154,0 0.83569,0.38728 0.83569,0.86502 z"
+         id="path4076" />
+      <path
+         id="path4078"
+         d="m 138.161,121.13271 a 0.56124182,0.5818697 0 0 1 -0.56124,0.58187 0.56124182,0.5818697 0 0 1 -0.56124,-0.58187 0.56124182,0.5818697 0 0 1 0.56124,-0.58187 0.56124182,0.5818697 0 0 1 0.56124,0.58187 z"
+         style="opacity:1;fill:#9e592a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.178;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+      <path
+         id="path4080"
+         d="m 135.54644,119.4259 a 1.1600346,1.1996581 0 0 1 -1.16003,1.19966 1.1600346,1.1996581 0 0 1 -1.16003,-1.19966 1.1600346,1.1996581 0 0 1 1.16003,-1.19965 1.1600346,1.1996581 0 0 1 1.16003,1.19965 z"
+         style="opacity:1;fill:#fd821f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.178;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    </g>
+  </g>
+</svg>
